@@ -1,6 +1,6 @@
 # SpaceRoute Manager 🚀
 
-Sistema de inteligência orbital focado em **roteamento seguro e otimização de missões** para satélites, desenvolvido como Global Solution.
+Sistema de inteligência orbital focado em **roteamento seguro e otimização de missões** para satélites.
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python
